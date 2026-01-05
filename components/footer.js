@@ -84,17 +84,14 @@ class FooterComponent extends HTMLElement {
             <footer>
                 <div class="footer-content">
                     <div class="social-links">
-                        <a href="https://github.com/isaaccamilo" target="_blank" aria-label="GitHub">
+                        <a href="https://github.com/zacgenius" target="_blank" aria-label="GitHub">
                             <i data-feather="github"></i>
                         </a>
-                        <a href="https://linkedin.com/in/isaaccamilo" target="_blank" aria-label="LinkedIn">
+                        <a href="https://www.linkedin.com/in/isaaccami" target="_blank" aria-label="LinkedIn">
                             <i data-feather="linkedin"></i>
                         </a>
-                        <a href="mailto:isaac.camilo@email.com" aria-label="Email">
+                        <a href="mailto:isaac.cami4242@gmail.com" aria-label="Email">
                             <i data-feather="mail"></i>
-                        </a>
-                        <a href="https://twitter.com/isaaccamilo" target="_blank" aria-label="Twitter">
-                            <i data-feather="twitter"></i>
                         </a>
                     </div>
                     
